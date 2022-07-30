@@ -482,6 +482,12 @@ Bu şekilde projemizi katmanlarına ayırdık.
 
 Spring IoC yapılandırması buraya eklenmedi. Ancak IoC ile manager'da oluşturduğumuz dependency injection işlemleri rahatlıyor diyebiliriz şu an için.
 
+--> Spring IoC nedir?
+
+Link: https://gokhana.medium.com/inversion-of-control-ioc-nedir-ve-avantajlar%C4%B1-nelerdir-cf05e42c16e4
+
+IoC dependency injection yapıldığında nesnelerin life cycle'ını yöneten kutuya deniyor.Bellekte somut instancelar bu kutunun içinde duruyor. Spring IoC dependency injection yapıldığında örneğin @autowired ile o kutudan alınıyor.
+
 (C# için Autofac,Ninject akıllara gelebilir.)
 
 ### ****************** CLEAN CODE BÖLÜM 8/Yeni Bir Senaryoyla Pekiştirmek ******************
