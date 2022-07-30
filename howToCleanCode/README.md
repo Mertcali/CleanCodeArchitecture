@@ -238,11 +238,8 @@ public class CreateCarRequest {
 
 Bu projeyi baz aldığımız zaman örneğin anotasyonlarla ekleme yaptım ancak gün geldi yabancılara da hizmet vermeye başladığımda kimlik numarasının zorunluluğunun kalkması gerekiyor. Bunun için notasyonlarımı hiçbir zaman entity üzerine belirtmiyorum. SOLID'e aykırı bir durum oluyor zaten. Bunun için farklı yöntemler mevcut. Örneğin request-response pattern uygulayarak createCustomerRequest içerisinde notasyonlarımı belirtebilirim.
 
-### ****************** CLEAN CODE BÖLÜM 4/REFERANS TİP BAZLI REFACTOR ******************
 
-//IValidate referans tiplemesine gidildi ayrıca bakılabilir buna.
-
-### ****************** CLEAN CODE BÖLÜM 4.1/DEĞER VE REFERANS TİPİ ANLAMAK ******************
+### ****************** CLEAN CODE BÖLÜM 4/DEĞER VE REFERANS TİPİ ANLAMAK ******************
 
 STACK AND HEAP (KAYNAK: https://www.gokhan-gokalp.com/stack-heap-kavramlari/)
 
