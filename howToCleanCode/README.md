@@ -481,7 +481,8 @@ Bu şekilde projemizi katmanlarına ayırdık.
 ### ****************** CLEAN CODE BÖLÜM 7/IoC ÇEVİK KODLAMA ******************
 
 Spring IoC yapılandırması buraya eklenmedi. Ancak IoC ile manager'da oluşturduğumuz dependency injection işlemleri rahatlıyor diyebiliriz şu an için.
-(C#,Autofac,Ninject)
+
+(C# için Autofac,Ninject akıllara gelebilir.)
 
 ### ****************** CLEAN CODE BÖLÜM 8/Yeni Bir Senaryoyla Pekiştirmek ******************
 Senaryo:
